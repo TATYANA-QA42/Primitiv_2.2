@@ -10,7 +10,6 @@ public class Main {
             //System.out.println("Пополнение:" + increase);
             System.out.println("Бонус:" + bonus);
             System.out.println("Сумма:" + summa);
-
         } else {
             int bonus = 0;
             int summa = balance + increase;
